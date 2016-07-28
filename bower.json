@@ -1,0 +1,20 @@
+{
+  "name": "Gulp-Front",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Mark Bezzub"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bezzz23",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+  }
+}
